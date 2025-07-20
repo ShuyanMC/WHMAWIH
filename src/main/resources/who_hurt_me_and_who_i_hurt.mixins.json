@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.shuyanmc.WHMAWI.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "who_hurt_me_and_who_i_hurt.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
